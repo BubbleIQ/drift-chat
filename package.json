@@ -1,6 +1,6 @@
 {
   "name": "drift-chat",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Drift Node SDK.",
   "main": "index.js",
   "scripts": {
@@ -8,18 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gittristan/drift-chat.git"
+    "url": "git+https://github.com/bubbleiq/drift-chat.git"
   },
   "keywords": [
     "Drift",
-    "Drift Chat"
+    "Drift Chat",
+    "Conversations"
   ],
   "author": "Tristan Rubadeau",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gittristan/drift-chat/issues"
+    "url": "https://github.com/bubbleiq/drift-chat/issues"
   },
-  "homepage": "https://github.com/gittristan/drift-chat#readme",
+  "homepage": "https://github.com/bubbleiq/drift-chat#readme",
   "dependencies": {
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
